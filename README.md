@@ -1,9 +1,13 @@
 ## Hi everyone! 👋
 ✨ My name is Marta ✨
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-magnani-5566bb1b1/)
-![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mmagnani.marta@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/marta-magnani-5566bb1b1/)][1]
+[![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/mmartamagna)][2]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mmagnani.marta@gmail.com)][3]
+
+[1]: https://www.linkedin.com/in/marta-magnani-5566bb1b1/
+[2]: https://github.com/mmartamagna
+[3]: mailto:mmagnani.marta@gmail.com
 
 ---
 **Short resume:**
