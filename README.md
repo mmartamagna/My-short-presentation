@@ -38,6 +38,6 @@
 ## Repos
 [![OECD Regional Well-being](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=OECD-Regional-Well-being-dataset&show_owner=false)](https://github.com/mmartamagna/OECD-Regional-Well-being-dataset)
 
-[![Covid-19 Scandinavian countries](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=OECD-Regional-Well-being-dataset&show_owner=false)](https://github.com/mmartamagna/Covid-19-Scandinavian-countries)
+[![Covid-19 Scandinavian countries](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Covid-19-Scandinavian-countries&show_owner=false)](https://github.com/mmartamagna/Covid-19-Scandinavian-countries)
 
 
