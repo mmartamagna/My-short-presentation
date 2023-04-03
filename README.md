@@ -16,7 +16,6 @@
     * Main tasks: data retrieval, data cleaning, data analysis, econometric modelling, statistical analysis, background research, literature review, project reports, questionnaires preparation and validation, academic paper writing, interactive dashboard building.
     * Tools: STATA, Excel, R, PowerPoint.
 - Graduating in **M.Sc. Data Science and Economics** (University of Milan)
-    * Experimental dissertation in collaboration with NeXt Nuova Economia Per Tutti: *BESt Work Life®: an innovative approach for measuring workers' multidimensional well-being and participation levels*.
 - Graduated in **B.A. Economics and Management** (University of Milan)
     * Final dissertation in Macroeconomics: *Beyond GDP towards Equitable and sustainable well-being: alternative measures to economic wealth*.
 
