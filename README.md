@@ -39,4 +39,5 @@
 
 [![Covid-19 Scandinavian countries](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Covid-19-Scandinavian-countries&show_owner=false)](https://github.com/mmartamagna/Covid-19-Scandinavian-countries)
 
+[![Machine Learning Cats Dogs Images](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Machine-Learning-Project-CatsDogs&show_owner=false)](https://github.com/mmartamagna/Machine-Learning-Project-CatsDogs)
 
