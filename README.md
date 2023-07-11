@@ -41,3 +41,7 @@
 
 [![Machine Learning Cats Dogs Images](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Machine-Learning-Project-CatsDogs&show_owner=false)](https://github.com/mmartamagna/Machine-Learning-Project-CatsDogs)
 
+[![Plant leaves classification](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Plant-leaves-classification-AMD&show_owner=false)]([https://github.com/mmartamagna/Plant-leaves-classification-AMD])
+
+
+
