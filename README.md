@@ -23,7 +23,7 @@
 **Research interests:**  
 - Sustainability (social, environmental and economic)
 - Multidimensional well-being and composite indicators
-- Micro-econometrics and policy evalutation
+- Micro-econometrics and policy evaluation
 
 --- 
 **Languages and Tools:**  
@@ -41,7 +41,7 @@
 
 [![Machine Learning Cats Dogs Images](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Machine-Learning-Project-CatsDogs&show_owner=false)](https://github.com/mmartamagna/Machine-Learning-Project-CatsDogs)
 
-[![Plant leaves classification](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Plant-leaves-classification-AMD&show_owner=false)]([https://github.com/mmartamagna/Plant-leaves-classification-AMD])
+[![Plant leaves classification](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Plant-leaves-classification-AMD&show_owner=false)]([https://github.com/mmartamagna/Plant-leaves-classification-AMD](https://github.com/mmartamagna/Plant-leaves-classification-AMD))
 
 
 
