@@ -12,9 +12,7 @@
 ---
 **Short resume:**
 - **Researcher and Data Analyst** in the Civil Economics and Sustainability field at *NeXt Nuova Economia Per Tutti APS ETS*. <img src="https://www.nexteconomia.org/wp-content/uploads/2016/05/next-logo-e1463394506814.png" width="100px"> </img> <br>
-    * Research projects on sustainable development and multidimensional well-being composite indicators.
-    * Main tasks: data retrieval, data cleaning, data analysis, econometric modelling, statistical analysis, background research, literature review, project reports, questionnaires preparation and validation, academic paper writing, interactive dashboard building.
-    * Tools: STATA, Excel, R, PowerPoint.
+
 - Graduating in **M.Sc. Data Science and Economics** (University of Milan)
 - Graduated in **B.A. Economics and Management** (University of Milan)
     * Final dissertation in Macroeconomics: *Beyond GDP towards Equitable and sustainable well-being: alternative measures to economic wealth*.
@@ -23,7 +21,7 @@
 **Research interests:**  
 - Sustainability (social, environmental and economic)
 - Multidimensional well-being and composite indicators
-- Micro-econometrics and policy evaluation
+- Micro-econometrics, policy evaluation, education economics 
 
 --- 
 **Languages and Tools:**  
@@ -34,14 +32,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://cdn.cdnlogo.com/logos/l/28/latex.svg"></code>
 
-## Repos
-[![OECD Regional Well-being](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=OECD-Regional-Well-being-dataset&show_owner=false)](https://github.com/mmartamagna/OECD-Regional-Well-being-dataset)
-
-[![Covid-19 Scandinavian countries](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Covid-19-Scandinavian-countries&show_owner=false)](https://github.com/mmartamagna/Covid-19-Scandinavian-countries)
-
-[![Machine Learning Cats Dogs Images](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Machine-Learning-Project-CatsDogs&show_owner=false)](https://github.com/mmartamagna/Machine-Learning-Project-CatsDogs)
-
-[![Plant leaves classification](https://github-readme-stats.vercel.app/api/pin/?username=mmartamagna&repo=Plant-leaves-classification-AMD&show_owner=false)](https://github.com/mmartamagna/Plant-leaves-classification-AMD)
 
 
 
