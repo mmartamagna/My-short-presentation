@@ -1,5 +1,6 @@
 ## Hi everyone! 👋
-✨ My name is Marta ✨
+👋 Hello! I'm Marta, a Research Assistant at the Laboratory for Effective Antipoverty Policies (LEAP) and a Consultant at the Italian headquarters of The World Bank, focusing on Education Economics.
+🔍 My research interests blend Policy Evaluation, Education Economics, Social Economics, and Econometrics. When the situation calls for it, I sprinkle in some Data Science for suitable measures and cool data representations.
 
 **Research Experiences**
 * Research Assistant - Laboratory for Effective Anti-Poverty Policies (LEAP), Bocconi University (Sep 2023 - )
