@@ -6,7 +6,7 @@
 **Research Experiences**
 * Research Assistant - Laboratory for Effective Anti-Poverty Policies (LEAP), Bocconi University (Sep 2023 - )
 * Consultant - The World Bank, Development Research Group (Sep 2023 - )
-* Researcher and data analyst - Centro Studi e Valutazioni (CeSVa), NeXt Nuova Economia X Tutti (Jan 2022 - Feb 2023)
+* Research Assistant - Centro Studi e Valutazioni (CeSVa), NeXt Nuova Economia X Tutti (Jan 2022 - Feb 2023)
 
 **Academic background**
 * University of Milan, M.Sc. Data Science and Economics (lm-91)
