@@ -13,7 +13,7 @@
 * University of Milan, B.Sc. Economics and Management (l-18, l-33)
 
 **Publications**
-* L. Becchetti, M. Magnani, L. Semplici (2024). BESt Work Life: a multidimensional approach to organisational climate measurement. Aiccon (https://www.aiccon.it/pubblicazione/200-best-work-life/)
+* L. Becchetti, M. Magnani, L. Semplici (2024). BESt Work Life: a multidimensional approach to organisational climate measurement. Working Paper 200, Aiccon (https://www.aiccon.it/pubblicazione/200-best-work-life/)
 * E. Bobbio, M. Magnani, L. Semplici. (2023). “Il contributo delle BCC-CR alla crescita della generatività comunitaria” in Capitale sociale e generativit`a comunitaria. La spinta delle banche di credito cooperativo (a cura di Maria Carmen Mazzilis). Ecra, Edizioni del credito cooperativo. ISBN 9788865584897. (https://www.ecra.it/prodotto/capitale-sociale-e-generativita-comunitaria-la-spinta-delle-banche-di-credito-cooperativo/)
 
 **Languages and Tools:**  
