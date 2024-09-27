@@ -18,10 +18,6 @@
 <code><img height="20" src="https://www.stata.com/includes/images/stata-logo-blue.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://cdn.cdnlogo.com/logos/l/28/latex.svg"></code>
-<code><img height="25" src="[https://cdn.cdnlogo.com/logos/l/28/latex.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png"></code>
-
-
-
 
 
 
